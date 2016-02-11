@@ -1,4 +1,4 @@
-**Fortigate - Appl SSL Cert**
+**Fortigate - Apply SSL Cert**
 
 
 ```
