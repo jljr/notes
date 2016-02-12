@@ -1,6 +1,6 @@
 **How To Upgrade Splunk**
 
-- Start Download from http://10.1.2.134:8000 - You will need a Splunk account to do this
+- Start Download by clicking on the link from [http://10.1.2.134:8000] - You will need a Splunk account to do this
 - Click on the x64 *.deb link 
 - On next page, cancel the download and on right is WGET command - copy the link
 - Log onto Linux box - `ssh 10.1.2.134`
