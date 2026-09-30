@@ -453,4 +453,86 @@ I am looking to fly to multiple cities from Bangkok in December 2026/January 202
 
  ---
 
- 
+On my Google Drive, review the files in 02 Personal & Administration/Documents folder.
+
+Review the folder structure on Google Drive
+If a file or folder in 002 Personal & Administration/Documents folder does not fit into the current folder structure under Google Drive, create the folder
+Move the each file or folder in 02 Personal & Administration/Documents folder to the appropriate folder on Google Drive
+
+---
+
+On my Google Drive, review the files in 01 Money/Investments/Fidelity 
+- Look at all documents in the root of the folder and all subfolders
+- Recommend an updated file structure to group the documents under 01 Money/Investments/Fidelity
+
+
+----
+
+
+Lead with the result. The first sentence says what happened, what the answer is, or what went wrong. Never restate what I asked.
+
+Complete means nothing I need is missing, not that everything you know is included. Always keep, stated plainly and early: failures, bad news, assumptions you made, anything you skipped or left undone, caveats that change what I should do next, and anything I have to act on. This list wins over every length rule below.
+- Cut everything else by default:
+- Narration of what you did or checked. Report the outcome, not the steps.
+- Rationale for routine decisions. Explain a choice only if I asked, or if it was a judgment call I might reverse.
+- Closing recaps and "next steps" that restate the message above. The message that ends a task must stand on its own, but that is the whole message, not a summary appended to it.
+- Offers like "Let me know if..." or "Want me to...". Either do the work or ask one specific question.
+
+Length: a simple question gets one to three sentences. A task report is under about 150 words, not counting code, error output, or draft text. Go longer only when the content itself is long: an explanation I asked for, a draft, a failing test's output.
+
+Before sending, reread the first and last paragraphs. Delete the first if it is preamble and the last if it is an offer. 
+
+
+----
+
+05 Work & Projects/Career & Work History
+
+On my Google Drive, review the files in 05 Work & Projects/Career & Work History 
+- Look at all documents in the root of the folder and all subfolders
+- Recommend an updated file structure to group the documents under 05 Work & Projects/Career & Work History
+
+----
+
+05 Work & Projects/Career & Work History/02 Employers/Gopher Sport
+
+On my Google Drive, review the files in 05 Work & Projects/Career & Work History/02 Employers/Gopher Sport 
+- Look at all documents in the root of the folder and all subfolders
+- Recommend an updated file structure to group the documents under 05 Work & Projects/Career & Work History/02 Employers/Gopher Sport
+
+----
+
+21634fe91b0546170389602a242c1cf87df25d11e90e65fb513d4ee202d62841
+
+claude mcp add-json obsidian-vault '{
+  "type": "stdio",
+  "command": "uvx",
+  "args": ["mcp-obsidian"],
+  "env": {
+    "OBSIDIAN_API_KEY": "21634fe91b0546170389602a242c1cf87df25d11e90e65fb513d4ee202d62841",
+    "OBSIDIAN_HOST": "127.0.0.1",
+    "OBSIDIAN_PORT": "27124"
+  }
+}'
+
+---
+
+Create a project folder in my vault called tattoo. Inside it, create
+four folders: Inputs, Process, Outputs, Feedback. Then write a CLAUDE.md inside
+that project folder describing what this project is, its one goal, and your
+specific role in helping me hit it. Interview me if you need details.
+
+----
+
+06 Photos & Media
+
+On my Google Drive, review the files IN THE FOLDERS AND SUBFILDERS in 06 Photos & Media 
+- Move all files from the folders and subfolders to 06 Photos & Media
+- Delete any duplicates
+- Delete all empty folders
+
+----
+
+/Users/jljr/Library/CloudStorage/GoogleDrive-jlinnihan@gmail.com/My Drive/06 Photos & Media
+
+
+Create a script to run on MacOS to go through all folders and sub-folders in /Users/jljr/Library/CloudStorage/GoogleDrive-jlinnihan@gmail.com/My Drive/06 Photos & Media and move all Photographs and Movies to /Users/jljr/Library/CloudStorage/GoogleDrive-jlinnihan@gmail.com/My Drive/06 Photos & Media/Upload. If there is a duplicate file move the duplicate to /Users/jljr/Library/CloudStorage/GoogleDrive-jlinnihan@gmail.com/My Drive/06 Photos & Media/Dupe
