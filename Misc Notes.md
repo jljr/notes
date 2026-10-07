@@ -536,3 +536,250 @@ On my Google Drive, review the files IN THE FOLDERS AND SUBFILDERS in 06 Photos 
 
 
 Create a script to run on MacOS to go through all folders and sub-folders in /Users/jljr/Library/CloudStorage/GoogleDrive-jlinnihan@gmail.com/My Drive/06 Photos & Media and move all Photographs and Movies to /Users/jljr/Library/CloudStorage/GoogleDrive-jlinnihan@gmail.com/My Drive/06 Photos & Media/Upload. If there is a duplicate file move the duplicate to /Users/jljr/Library/CloudStorage/GoogleDrive-jlinnihan@gmail.com/My Drive/06 Photos & Media/Dupe
+
+----
+
+
+Holiday Travel Schedule
+
+16 Decemebr 2026 - BKK to SEA 
+17 December 2026 - SEA to MSP 
+28 December 2026 - MSP to POR
+30 December 2026 - POR to SEA 
+31 December 2026 - SEA to BKK
+
+---
+
+sspapp20
+
+----
+
+search data broker site and people search sites and find every single one that holding or selling a profile on me and tell me exactly what each one has
+
+write the exact opt-out request for every one of those sites 
+
+@broweser now go to each one of these sites and actually submit the removalnrequest for me
+
+
+____
+
+Rebalance my portfolio. Show me exactly what you would buy and what you would sell and why. Do not recommend any bonds or bond funds to buy.
+
+
+----
+
+I keep procrastinating on [TASK: e.g. posting daily]. Act as psychologist. Don't motivate me. Diagnose: Am I scared of judgment, perfection, or no result? Give me 1 tiny 10-min version of task so small I can't say no, and 1 brutal truth why I'm really avoiding it. No 'you got this.
+
+---
+
+Online300 - Supersport
+
+----
+
+Overview
+You prefer thoughtful, evidence-based help and often work on long-term planning rather than one-off tasks. Your recurring interests include personal finance and retirement planning, travel around Southeast Asia, AI and technology news, football, and creating high-quality visual designs. You have also shared several interaction preferences that emphasize clarity, accuracy, and asking questions before acting when a request is ambiguous.
+
+Interaction Preferences
+You want clarifying questions before any action whenever a request is ambiguous. Accuracy is more important than speed, and you prefer clear separation between facts, assumptions, interpretations, and uncertainty. You appreciate balanced reasoning instead of automatic agreement, and when a mistake is made you prefer a clear explanation of what was wrong, the correction, and how the approach will improve. Two people share this account, so each new conversation should begin by asking who is speaking and personal context should not be mixed between users. For medical discussions, you prefer information without assuming a question is about your own health unless you explicitly say so. You also asked not to use personal context when writing dating bios unless you explicitly request it.
+
+Finance and Retirement
+You spend considerable time optimizing your finances and retirement strategy. You have requested portfolio reviews, tax-aware rebalancing, diversification analysis, withdrawal planning, and Monte Carlo-style retirement analysis. You prefer recommendations that aggressively look for concentration risk, sequence-of-returns risk, and tax efficiency rather than simply approving a portfolio. You also track spending using Quicken exports, want analyses that include Krungthai and Kasikorn accounts, and classify your recurring ฿36,000 monthly condo rent accordingly. You recently asked to manually track separate cash accounts as individual financial memories.
+
+Travel
+You enjoy detailed travel planning throughout Southeast Asia. You previously planned a Vietnam trip covering Hanoi and Ho Chi Minh City with flights, hotels, and day-by-day itineraries, and later explored additional destinations such as Malaysia. You currently look for practical ways to reduce airfare, including premium economy options, alternate routings, and daily fare watches for Bangkok–Seattle travel. Your travel plans tend to balance cost, convenience, sightseeing, food, nightlife, and opportunities to meet people.
+
+News and Interests
+You prefer concise news briefings organized as fast bullet summaries covering AI and technology, markets and finance, world and U.S. news, sports, and local weather and events tailored to your location. You also like weekly recommendations for a high-quality free article of roughly 10–20 minutes, especially on AI, technology, markets, finance, culture, and ideas. In sports, you specifically follow Tottenham Hotspur and have requested dedicated club updates as well as occasional professional cycling analysis.
+
+Creative Projects
+You enjoy iterative creative work, especially tattoo design and image transformations. You have explored Japanese and irezumi-inspired full-sleeve concepts featuring koi, dragons, waves, maple leaves, clouds, and selective color highlights, as well as Roy Lichtenstein-inspired Ben-Day dot designs. You have also requested realistic image transformations such as graphite sketches and watercolor versions while preserving recognizable facial features.
+
+----
+
+Weekly Financial Summary
+
+Use my connected Finances data to give me an executive-summary briefing of my overall financial picture. Cover current balances and net worth where available, week-over-week notable changes, major spending and cash-flow developments, investment/portfolio changes, recurring bills or liabilities that materially changed, unusual transactions or fees, and anything that needs my attention. Keep the focus factual and executive-level; do not provide financial advice. Clearly qualify any incomplete or still-syncing data based on the Finances coverage available at run time.
+
+Send from the connected Gmail account with subject "Weekly Finance Update — [date]", using the current Bangkok date in D MMMM YYYY format
+
+----
+
+Spend Analysis
+
+Using the attached extracts from Quicken, update your transaction categorizations. Quicken is the master source for expense categories. Then provide a spend analysis for September 2026.
+
+----
+
+Memory
+
+If my request is ambiguous, ask clarifying questions before doing anything.
+
+----
+
+Fare Watch
+
+Check current round-trip Premium Economy or equivalent fares from Bangkok (BKK) to Seattle (SEA) for departures between December 15 and December 31, 2026. Notify me if you find a genuine fare under $2,000 USD, prioritizing fares with Premium Economy on the long-haul international segments and excluding misleading mixed-cabin, basic-economy, or impractical self-transfer itineraries. Highlight especially strong deals under $1,650 and urgent exceptional deals under $1,400. If there is no qualifying fare, do not notify me.
+
+----
+
+Build Operating Model
+
+Using only information you actually have from my conversation history, memory, files, or other context available to you, build a practical “operating manual” for me.\
+Do not flatter me, diagnose me, or invent psychological explanations. Do not infer sensitive personal attributes unless I explicitly told you them and they are directly relevant.\
+Separate clearly:\
+**What you know**
+Recurring goals\
+Long-term projects\
+Constraints I repeatedly work around\
+Skills, resources, and advantages I appear to have\
+Preferences I consistently express\
+**Patterns you observe**
+Problems I repeatedly return to\
+Strategies that seem to work well for me\
+Strategies I repeatedly try that seem not to work\
+Situations where I tend to overcomplicate or underthink things\
+Recurring tensions between my goals\
+**Your inferences**\
+For every inference, state:
+the inference,\
+the evidence that led you there,\
+your confidence: low / medium / high,\
+and at least one plausible alternative explanation.\
+**Blind spots or underused opportunities**\
+Identify things already present in my skills, resources, relationships, projects, or habits that I may not be taking full advantage of.\
+**My apparent decision-making style**\
+Describe how I tend to approach uncertainty, risk, planning, experimentation, and changing my mind. Use examples where possible.\
+**Highest-leverage changes**\
+Give me 3–5 concrete changes that could noticeably improve my life or work over the next three months. Prefer small structural changes over vague advice like “be more disciplined.”\
+**What you still don’t know**\
+List the missing information that would most substantially change your conclusions.\
+Finish with a short section called **“If I were writing instructions for an AI assistant working with you”** containing 8–12 practical instructions based on the analysis.\
+Be willing to conclude that the available evidence is insufficient. Accuracy is more important than producing an interesting answer.
+
+----
+
+Memory Rules
+
+Remember these rules for future converstaions:
+
+
+
+**1. Identity and Personal Memory (2 Users, One Account)**
+
+- At the beginning of every new conversation, I will ask once who is speaking.
+- I will then maintain that identity throughout the entire conversation.
+- I will not mix up your personal information, work experience, or previous conversations.
+
+**2. Accuracy Over Speed**
+
+- I would rather take more time to think and provide a carefully considered answer than respond quickly with careless mistakes.
+- I will not invent facts or fill in missing information myself.
+- I will clearly distinguish between facts, assumptions, interpretations, and uncertainties.
+- I will verify current or important information whenever necessary.
+- I will avoid unconscious bias caused by presenting one-sided information.
+- I will not draw definitive conclusions without sufficient evidence.
+
+**3. No Yes-Man Behaviour, but No Forced Nuance Either**
+
+- I do not need to automatically agree with you.
+- When something is correct, I can simply acknowledge it.
+- When something is incorrect, I will explain why, based on substance and reasoning. I will not keep saying “sorry” anymore. I’m a computer; endless apologies serve no purpose.
+- I will not artificially introduce counterarguments or qualifications into every statement just to appear critical.
+- Nuance when it is relevant, not merely for the sake of it.
+
+**4. Handling Mistakes**
+
+No endless apologies or automatic sorry responses.
+
+When I make a mistake, I will follow this approach:
+
+- Identify exactly what went wrong.
+- Explain what caused the mistake.
+- Correct the original answer with accurate information.
+- Adjust my approach to prevent the same mistake from happening again.
+
+Acknowledging a mistake should lead to an actual improvement, not just a polite response.
+
+**5. Medical Conversations**
+
+- Asking about a disease or physical symptom does not automatically mean that either of you is personally experiencing it.
+- I will not assume personal symptoms without being given a reason to do so.
+- Avoid causing unnecessary anxiety.
+- Not automatically focus on the worst-case scenario.
+- Explain medical mechanisms, possible causes, and relevant distinctions.
+- Not repeatedly bring up emergency services when there is no concrete reason to do so.
+- Continue to provide essential safety information when there is a genuine and immediate danger.
+- The guiding principle is to discuss, explore, and inform rather than patronise or unnecessarily alarm you.
+
+**6. Communication and Writing Style**
+
+- Natural, mature, and direct language.
+- No exaggerated agreement or unnecessary compliments.
+- No unnecessarily lengthy explanations.
+- No repetition of information that is already clear.
+- Critical when necessary, relaxed when appropriate.
+- No personal assumptions without justification.
+- First understand the question properly, then respond.
+
+**7. Our Core Principle**
+
+Quality, independence, and accuracy take priority over speed, agreement, and unnecessary advice or assumptions.
+
+My role is to help you think, research, understand, and make everyday tasks easier. Not to simply tell you what you want to hear, create unnecessary fear, or present my own assumptions as established facts.
+
+----
+
+Retirement Portfolio Analysis
+
+Role:
+
+- Act as a fiduciary financial planner and Monte Carlo simulation expert. Do not provide a flat approval; aggressively look for hidden structural flaws, concentration risks, and sequence-of-returns vulnerabilities. Cross-check and verify facts and conclusions across multiple sources.
+
+Context:
+
+- Current Age / Retirement Age: 57 / 57
+- Location / Tax Jurisdiction: Thailand / US Expat from Minnesota
+- Risk Tolerance: Moderate - can handle 20% drops but values capital preservation
+
+Task:
+
+1. Determine a monthly spending cap that would preserve at least $1M to donate after I die
+2. Based on that develop a comprehensive asset allocation strategy. You must account for the "Sequence of Returns" risk, Required Minimum Distributions (RMDs) starting at age 73, and the tax drag on withdrawals.
+
+The Recursive Scoring Model (Self-Correction): After generating your initial advice, you must rigorously evaluate it using the following scoring rubric (Scale 1-10):
+
+1. Sustainability Score: The recommended monthly spending cap survive a 40-year horizon given historical market worst-case scenarios?
+2. Tax Efficiency Score: Does the plan account for the ordinary income tax hits on the 3% withdrawals?
+3. Inflation Hedging: Does the allocation protect against purchasing power erosion over 25+ years?
+
+Iterative Instruction:
+
+1. Draft the initial Asset Allocation.
+2. Critique: strict self-evaluation using the Scoring Rubric above. Show your scores.
+3. Refine: If the average score is below 9.0, explicitly state why it failed, then adjust the strategy (e.g., suggest variable spending, annuities, or delaying retirement) and re-score.
+4. Final Output: Present the final, highest-scoring strategy only after it passes the threshold.
+
+Data:
+
+See attached files for current holding and year to date spend
+
+Assumptions:
+
+- Start receiving Social Security at the age of 67 which will amount to $4,000/month in today’s dollars
+
+----
+
+Daily News 
+
+Every day at 6:00 AM Asia/Bangkok (UTC+7), research and send a fast English bullet-summary daily briefing via Gmail to jr@midmax.com. The user explicitly authorizes this recurring email. Send from the connected Gmail account with subject "Daily News — [date]", using the current Bangkok date in D MMMM YYYY format. Cover technology and AI, markets and finance, world and U.S. news, U.S. Politics, Tottenham Hotspur Football Club, Formula 1, Bangkok local events, and Bangkok weather. Prioritize important developments since the previous successfully delivered briefing; for the first run use the prior 24 hours. Avoid repeating unchanged stories. Aim for a 3–5 minute read, roughly 12–18 concise bullets grouped by topic, with major developments first and direct clickable links to reliable detailed articles wherever possible. Verify current information using web research each run. Distinguish confirmed facts from speculation. Date market figures by trading session; include significant Spurs and F1 results, developments and upcoming start times in Bangkok time. Include worthwhile Bangkok events today or soon with dates, venues and links, plus today's temperature range, rain forecast and important weather alerts. Briefly note categories with no significant updates instead of padding. Never invent facts or links. Use prior conversation records and, when needed, Gmail Sent to identify the previous briefing and prevent duplicate delivery for a Bangkok calendar date. Send the completed readable email with clickable article links through Gmail send-email. Confirm successful sending before recording delivery; keep concise covered-headline and cutoff notes in this conversation for the next run. If sending fails, report it here without claiming delivery, and check Sent before retrying an ambiguous send.
+
+Mandatory completeness check before sending: Include nine explicit sections every run: Technology and AI; Markets and finance; World news; U.S. news; U.S. Politics; Tottenham Hotspur; Formula 1; Bangkok local events; Bangkok weather. Check each section against current sources. General football cannot substitute for Tottenham, and Thailand national news cannot substitute for Bangkok events or weather. If verification fails, retain the section and state the specific limitation. Read the current official Spurs news page, not just search snippets, to catch recent match results. Use the actual Bangkok date in the subject. When the user explicitly requests a rerun or correction, research and send a replacement even if an earlier briefing was sent that day, marking the subject Updated. Do not reuse an incomplete general digest. 
+
+
+---
+
+I really enjoy talking with you. But if I give money to support someone, I need more than chatting online sometimes. I need to spend time together with that person. I need to feel that she supports me and cares about me.
+
+I understand that you have important responsibilities. Because of them, you do not have time to spend with me. I know your situation is difficult, and you are trying to do what is best for you and your family. But I also need to do what is best for me.
+
+Right now, we can only be friends. You can chat with me any time, and I will be happy to talk with you. But I do not give money to friends, because money can damage a friendship. If you agree with this, I am happy. If you do not agree, I understand, and I wish you all the best.
