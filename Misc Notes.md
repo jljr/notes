@@ -783,3 +783,9 @@ I really enjoy talking with you. But if I give money to support someone, I need 
 I understand that you have important responsibilities. Because of them, you do not have time to spend with me. I know your situation is difficult, and you are trying to do what is best for you and your family. But I also need to do what is best for me.
 
 Right now, we can only be friends. You can chat with me any time, and I will be happy to talk with you. But I do not give money to friends, because money can damage a friendship. If you agree with this, I am happy. If you do not agree, I understand, and I wish you all the best.
+
+----
+
+Act as a travel agent who has planned 500+ trips. I want to go to Cambodia from Bangkok at the end of October for 2 weeks. Travel style: balanced. I like food, nature. Don't like guided tours, nightlife. Build me a full trip plan: Flights to look for, best area to stay, 3 must-do's, and what to skip. Ask me 3 questions if needed to make it perfect.
+
+----
