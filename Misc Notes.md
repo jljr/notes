@@ -789,3 +789,59 @@ Right now, we can only be friends. You can chat with me any time, and I will be 
 Act as a travel agent who has planned 500+ trips. I want to go to Cambodia from Bangkok at the end of October for 2 weeks. Travel style: balanced. I like food, nature. Don't like guided tours, nightlife. Build me a full trip plan: Flights to look for, best area to stay, 3 must-do's, and what to skip. Ask me 3 questions if needed to make it perfect.
 
 ----
+
+Sawasdee krap! 👋
+
+American, retired, and living in Thailand for good. Never married, no kids, so no baggage except my carry-on. 😄
+
+I'm easy-going and a little shy at first, but kind, caring, and always ready to laugh.
+
+If you can make me smile, send me a message. 😉
+
+----
+
+Connect to my router and find everything that is slowing me down. The login and password is: admin/aisadmin
+
+----
+
+tY@UAR#ZWNq$1u
+
+----
+
+Boss
+
+https://boss26massage.com/private-gallery/bf5204cd8b58b0e28786a7edc224b9ba10e1370d20ba60d8
+
+gkgzbxkq
+
+----
+
+- When did Dr. Martens end? April 2026
+- The Smith Optics / Safilo titles and the years for each. Safilo and Smith Optics: Vice President of Information Technology. These roles were concurrent as Smith Optics is a subsidiary of Safilo
+- Location, contact details, and LinkedIn for the header: Keep as-is
+- Rough scope for each role: team size, IT budget, company revenue, number of stores.
+Any numbers you remember for the big projects: D365, the POS rollout, cloud migration, hybris, ERP consolidation, PCI. Size, cost, timeline, savings, or “on time and on budget” all work.
+Anything relevant to board work: board or committee seats, presenting to boards or audit committees, M&A or integration work (the Smith Optics acquisition by Safilo might count), vendor negotiations, nonprofit boards, certifications such as NACD.
+Any consulting you’ve done since leaving Dr. Martens, even informal.
+
+- Team size and IT budget at Dr. Martens and at Safilo: Dr Martens: The team I managed was 30 people with a budget of $5M/yr. Safilo was a team od 20 people with a budget of $4M
+- Number of stores in the POS rollout and for Solstice: 105 stores
+- Any board, audit-committee or M&A exposure, such as integration work after Safilo acquired Smith Optics: IPO at Dr. Martens
+
+
+----
+
+Saucony Endophin Azura
+Topo Spectre 3
+Hoka Clifton Pro
+Hoka Gaviota
+NB SC Rebel
+Saucony Omni 23 ST
+
+https://www.rev.co.th/en/products/iq7318-100-nike-vomero-plus-x-distance-men?variant=47992942821565: 5,111
+
+----
+
+before you answer, list what you'd need to know that I haven't told you
+
+
